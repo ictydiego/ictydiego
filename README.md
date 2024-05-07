@@ -1,6 +1,6 @@
 - 👋 Olá Sou @ictydiego
 - 👀 Futuro Dev.
-- 🌱 Estudando Javascript
+- 🌱 Análise e desenvolvimento de Sistemas.
 - 💞️ aberto a ajudar todos.
 - 📫 icty.diego@gmail.com
 
